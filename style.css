@@ -1,0 +1,22 @@
+.container{
+	border: 4px solid purple ;
+}
+.content{
+	width: 100%;
+	height: 96vh;
+	border: 2px dotted black;
+}
+.content img{
+	height: 65vh;
+	width: 58vw;
+}
+#col_left,#col_right{
+	
+	border: 4px double purple;
+}
+#col_left img{
+	width: 76vw;
+	height: 40vh;
+}
+
+
